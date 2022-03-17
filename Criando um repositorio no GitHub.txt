@@ -1,0 +1,47 @@
+Criando Repositório no GitHub
+Passos o GitHub
+Criar recurso
+novo criar recurso
+Nome
+Descrição
+Público
+Adicione um arquivo README (marcar)
+proprietário Criar (botão)
+Editar arquivo
+README (ícone caneta)
+
+Fazer as mudanças, podendo usar as sintaxes do Markdown
+
+Comitar arquivo
+cometer diretamente... (marcar)
+(botão)
+Baixar/Clonar a autoridade
+código (botão)
+copiar HTTPS
+(Criar um arquivo e colar o link já dentro da pasta como Git Bash Here)
+
+Em Git Bash:
+
+git clone (colar o link do governo)
+
+Passos no Git Bash
+Entrar no arquivo
+cd (nome do arquivo, use "TAB" para atalho)
+ou
+
+na pasta do arquivo em questão, clicando com o botão direito e clicando no "Git Bash Here"
+Verificar arquivo
+status do git
+Salvar mudanças do arquivo
+status do git
+
+(se mudanças ou novas massas irão aparecer em vermelho)
+
+gi adicionar. ou git add -A
+Comitar arquivos
+git commit -m " " (entre aspas, fazer um comentário consistente sobre uma alteração)
+Empurras arquivos para a nuvem (repositório GitHub)
+git push origin principal
+(envia todos os commits que tem local para a nuvem)
+
+OBS.: Para todas as alterações ou novos arquivos fazer os " Passos no Git Bash "
